@@ -1,30 +1,28 @@
 # Anirban Pal
 
-**Machine learning for molecular design and reaction discovery · IIT Bombay**
+**PhD researcher at IIT Bombay Monash**
 
-I work on learning from chemical data to design molecules and prioritize ligands. My interests include property-guided molecular generation, molecular representations, and the evaluation of models when experimental data are limited.
+I'm Anirban Pal, a PhD researcher at IIT Bombay working across machine learning, biology, and chemistry. I study how models learn useful representations, retain knowledge, and generalize under distribution shift. My research spans continual learning, self-supervised learning, and JEPA-based world models, alongside biological and molecular representation learning for cancer research, drug discovery, and catalysis.
+
+## Research focus
+
+- Representation learning and generalization under distribution shift.
+- Continual learning, self-supervised learning, and JEPA-based world models.
+- Biological and molecular representation learning for cancer research and drug discovery.
+- Machine learning for catalysis.
 
 ## Selected research
 
 ### VECTOR+ — property-guided molecular generation
 
-We combine contrastive representation learning with latent-space sampling and a molecular decoder to explore chemical space from small, experimentally measured datasets.
+VECTOR+ combines property-guided contrastive representation learning with latent-space sampling and a molecular decoder. My associated evaluation work examines the contributions of representation choice, activity supervision, latent sampling, and decoding on the released PD-L1 dataset.
 
 Amartya Banerjee, Somnath Kar, **Anirban Pal**, and Debabrata Maiti. *Valid Property-Enhanced Contrastive Learning for Targeted Optimization & Resampling for Novel Drug Design.* arXiv preprint, 2025.
 
 [Read the paper](https://arxiv.org/abs/2509.00684) · [Author code](https://github.com/amartya21/vector-drug-design)
 
-### Cross-electrophile coupling — data-driven ligand design
+## Other chemical ML work
 
-Morgan fingerprints, descriptor regression, fragment recombination, and descriptor-based filtering for phosphine-ligand discovery. The repository contains the research notebooks, descriptor tables, and candidate structures, with a guide to the available artifacts and reproduction requirements.
-
-[Explore the repository](https://github.com/alphago1234/Cross-Electrophile-Coupling) · [Workflow and data](https://github.com/alphago1234/Cross-Electrophile-Coupling/blob/main/docs/REPRODUCIBILITY.md)
-
-## Research interests
-
-- Generative models for molecular design with limited target-specific data.
-- Molecular representations connecting chemical structure and measured properties.
-- Learning steric and electronic descriptors for ligand prioritization.
-- Evaluation that separates generation quality, surrogate predictions, and experimental activity.
+[Cross-electrophile coupling](https://github.com/alphago1234/Cross-Electrophile-Coupling): molecular descriptor regression and fragment-based phosphine-ligand design. [Workflow and data](https://github.com/alphago1234/Cross-Electrophile-Coupling/blob/main/docs/REPRODUCIBILITY.md)
 
 For project questions, please use the issue tracker in the relevant public repository.
