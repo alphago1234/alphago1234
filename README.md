@@ -13,7 +13,39 @@ I'm Anirban Pal, a PhD researcher at IIT Bombay working across machine learning,
 - Biological and molecular representation learning for cancer research and drug discovery.
 - Machine learning for catalysis.
 
-## Publications and preprints
+## Publications, preprints, and submissions
+
+### Submissions
+
+- **Reconstruction-Based Selection Can Hurt Retrieval Compatibility**\
+  Atharva Airen, **Anirban Pal**. Submitted to TMLR, 2026.
+
+- **[Test-Time Feature Alignment Under Uncertain Correspondence](https://openreview.net/forum?id=mLXTamMOQ9)**\
+  Atharva Airen, **Anirban Pal**. ICLR 2027 conference submission.
+
+- **The Interface Contract: Understanding Representation Drift in Continual Representation Learning**\
+  Atharva Airen, **Anirban Pal**. Submitted to NewInML workshop @ NeurIPS 2026.
+
+### Workshop papers and extended abstracts
+
+- **Beyond Marginals: What Test-Time Feature Alignment Can and Cannot Recover**\
+  Atharva Airen, **Anirban Pal**. NewInML workshop @ NeurIPS 2026, poster.
+
+- **Deconstructing Gradient Reuse: A Prospective Target-Permutation Diagnostic for Online Learning**\
+  Atharva Airen, **Anirban Pal**. NewInML workshop @ NeurIPS 2026, poster.
+
+- **The Interface Contract: Repairable Geometry and Partially Predictable Drift in Continual Representation Learning**\
+  Atharva Airen, **Anirban Pal**. NeurIPS 2026 Workshop: NeurIPS Extended Abstracts.
+
+### [CAISc 2026](https://caisc2026.github.io/accepted_papers.html)
+
+- **[Pixel Reconstruction Keeps an Absolute-Coordinate Channel that Latent Prediction Lets Go](https://openreview.net/forum?id=PMjBo6Ii83)**\
+  Aarav Gupta, **Anirban Pal**. CAISc 2026, accepted paper.
+
+- **[Action-Conditioned Sparsity for Latent-Space Planning](https://openreview.net/forum?id=ieS8kpFAuG)**\
+  Aarav Gupta, **Anirban Pal**. CAISc 2026, accepted paper.
+
+Publication records and submission updates are available on my [OpenReview profile](https://openreview.net/profile?id=~Anirban_Pal2).
 
 ### VECTOR+ — property-guided molecular generation
 
