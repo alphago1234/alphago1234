@@ -4,6 +4,8 @@
 
 I'm Anirban Pal, a PhD researcher at IIT Bombay working across machine learning, biology, and chemistry. I study how models learn useful representations, retain knowledge, and generalize under distribution shift. My research spans continual learning, self-supervised learning, and JEPA-based world models, alongside biological and molecular representation learning for cancer research, drug discovery, and catalysis.
 
+[OpenReview profile](https://openreview.net/profile?id=~Anirban_Pal2)
+
 ## Research focus
 
 - Representation learning and generalization under distribution shift.
@@ -11,7 +13,7 @@ I'm Anirban Pal, a PhD researcher at IIT Bombay working across machine learning,
 - Biological and molecular representation learning for cancer research and drug discovery.
 - Machine learning for catalysis.
 
-## Selected research
+## Publications and preprints
 
 ### VECTOR+ — property-guided molecular generation
 
